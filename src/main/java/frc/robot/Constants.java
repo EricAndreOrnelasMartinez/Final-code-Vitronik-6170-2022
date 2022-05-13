@@ -21,7 +21,7 @@ import edu.wpi.first.wpilibj.PneumaticsModuleType;
  */
 import edu.wpi.first.wpilibj.Servo;
 public final class Constants {
-    private static final int deviceNumberCL = 0;
+    private static final int deviceNumberCL = 1;
     private static final int deviceNumberCL2 = 4;
     private static final int deviceNumberCR = 2;
     private static final int deviceNumberCR2 = 8;
